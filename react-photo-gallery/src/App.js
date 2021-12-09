@@ -19,7 +19,7 @@ const App = ()=> {
             <Typography variant='h2' align='center' color='textPrimary' gutterBottom>
               Photo Album
             </Typography>
-            <Typography variant='h6' align='center' color='textSecondary' paragraph>
+            <Typography variant='h6' align='center' color='textSecondary' paragraph style={{fontWeight: '400', fontSize: '1.5rem'}}>
             Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.
             </Typography>
             <div>
